@@ -11,9 +11,9 @@ Simple Page to Sidebar lets you simply add page content to a sidebar. No more, n
 
 == Description ==
 
-Simple Page to Sidebar is a plugin that adds a widget which enables you to display any page content in your sidebars. Just choose any page using the dropdown in the widget area. Also unpublished or private page content can be shown.
+Simple Page to Sidebar is a plugin that adds a widget which enables you to display any page content in your sidebars. Just choose any page using the dropdown in the widget area. Also unpublished or private pages content can be shown.
 
-=Features=
+= Features =
 
 * No posts, *just pages*.
 * Internationalized for *english and german*.
